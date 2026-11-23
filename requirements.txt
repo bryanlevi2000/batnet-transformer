@@ -1,0 +1,9 @@
+# Same environment as batnet-lstm. Tested with Python 3.11 and torch 2.7.1+cu118.
+# Install torch with CUDA from https://pytorch.org (the CUDA build is not on PyPI's default index).
+numpy
+pandas
+scipy
+librosa
+tqdm
+psutil
+torch>=2.0
